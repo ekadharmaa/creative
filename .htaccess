@@ -1,0 +1,4 @@
+<Limit GET POST DELETE>
+    Order Allow,Deny
+    Allow from all
+</Limit>

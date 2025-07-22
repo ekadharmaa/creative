@@ -1,0 +1,7 @@
+order_id (Primary Key): Unique ID for each order
+email: Email address of the customer
+phone: Phone number of the customer
+order_date: Date when the order was placed
+status: Order status (e.g., pending, processing, completed)
+total_price: Total price of the order
+notes: Additional notes (optional)

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Adat Jawa",
+        "slug": "adat-jawa",
+        "class": "Template01",
+        "template_name": "template-01",
+        "category": "Wedding & Engagement",
+        "category_slug": "wedding-engagement",
+        "membership": "Premium",
+        "image": "/assets/images/template-01.jpg"
+    },
+    {
+        "name": "Halal Bihalal",
+        "slug": "halal-bihalal",
+        "class": "Template02",
+        "template_name": "template-02",
+        "category": "Syukuran & Islami",
+        "category_slug": "syukuran-islami",
+        "membership": "Basic",
+        "image": "/assets/images/template-02.jpg"
+    },
+    {
+        "name": "Batik Jawa",
+        "slug": "batik-jawa",
+        "class": "Template03",
+        "template_name": "template-03",
+        "category": "Wedding & Engagement",
+        "category_slug": "wedding-engagement",
+        "membership": "Premium",
+        "image": "/assets/images/template-03.jpg"
+    },
+    {
+        "name": "Elegant Brown",
+        "slug": "elegant-brown",
+        "class": "Template04",
+        "template_name": "template-04",
+        "category": "Wedding & Engagement",
+        "category_slug": "wedding-engagement",
+        "membership": "Premium",
+        "image": "/assets/images/template-04.jpg"
+    }
+]
